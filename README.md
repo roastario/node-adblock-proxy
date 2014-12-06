@@ -83,6 +83,8 @@ If you started the Proxy setting a different port, please change that accordingl
 
 If you started the Proxy setting a different port, please change that accordingly.
 
+![Screenshot Mac OS X](./docs/images/screenshot_mac_osx.png)
+
 ## TODO: Other Operating Systems
 
 Documentation about setup on other Operating Systems.
