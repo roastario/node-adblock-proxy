@@ -71,9 +71,21 @@ If you started the Proxy setting a different port, please change that accordingl
 
 ![Screenshot Gnome Shell](./docs/images/screenshot_gnome_shell.png)
 
+## Mac OS X
+
+- Start the Proxy (as shown in [Installation](#Installation))
+- Go to **System Preferences** > **Network**
+- Click on **Advanced** on the right side
+- Navigate to **Proxies** menu tab
+- Check the **Web Proxy (HTTP)** checkbox on the left side
+- Fill in 127.0.0.1 as IP and 8080 as port
+- Click **OK** and **Apply** to apply the settings
+
+If you started the Proxy setting a different port, please change that accordingly.
+
+![Screenshot Mac OS X](./docs/images/screenshot_mac_osx.png)
 
 ## TODO: Other Operating Systems
 
 Documentation about setup on other Operating Systems.
 **Contributions welcomed**.
-
